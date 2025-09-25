@@ -1,1 +1,1 @@
-print(The second code)
+print("The second code")
